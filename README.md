@@ -44,5 +44,5 @@ app-account-manager-master/
 ├── .idea/                        # IDE 配置  
 ├── screenshots/                    # 截图资源  
 ├── build-profile.json5             # 项目构建配置  
-├── oh-package.json5                # 项目依赖配置
-└── README.md                    # 项目说明文档
+├── oh-package.json5                # 项目依赖配置  
+└── README.md                    # 项目说明文档  
